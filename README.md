@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # React Fitness Application
 
 ![React Fitness Application](https://i.ibb.co/Yt9spGc/image.png)
@@ -6,3 +7,6 @@
 ### [🚀 Land your dream programming job in 6 months](https://jsmastery.pro/masterclass)
 
 ## Launch your development career with project-based coaching - https://www.jsmastery.pro
+=======
+# Titan
+>>>>>>> origin/main
