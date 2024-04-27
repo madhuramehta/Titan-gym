@@ -9,6 +9,7 @@ import Navbar from './components/Navbar';
 import Footer from './components/Footer';
 import Timer from './components/Timer';
 import BMIChecker from './components/BMIChecker';
+import Saved from './components/Saved';
 
 const App = () => (
   <Box width="400px" sx={{ width: { xl: '1488px' } }} m="auto">
@@ -18,6 +19,8 @@ const App = () => (
       <Route path="/exercise/:id" element={<ExerciseDetail />} />
       <Route path="/Timer" element={<Timer />} />
       <Route path="/BMIChecker" element={<BMIChecker />} />
+      <Route path="Saved" element={<Saved />} />
+
 
     </Routes>
     <Footer />
